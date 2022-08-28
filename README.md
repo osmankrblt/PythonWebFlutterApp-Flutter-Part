@@ -2,7 +2,7 @@ This project  allows us to see website messages. In this way, we can receive fee
 
 
 ![Screenshot_1661682534]( )
-<img src="https://user-images.githubusercontent.com/59209205/187069401-8538fada-e0ea-447e-b1dd-2a10ac2706f5.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/59209205/187069401-8538fada-e0ea-447e-b1dd-2a10ac2706f5.png"  height="250">
 
 First screen show the dates category.I have separated the messages according to the dates. In this way, the messages are easier to review.
 
